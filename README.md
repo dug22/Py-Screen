@@ -5,6 +5,8 @@ Py Screen is an old, simple Python drag-and-select screenshot tool used to easil
 ## Requirements
 
 - Python 3 or greater must be installed on your machine.
+- Install pyautogui's package
+   - pip install pyautogui
 
 ## How to Run the Script
 
